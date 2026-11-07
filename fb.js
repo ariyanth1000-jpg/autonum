@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         Facebook Auto Reg (Ultimate + Login Mode)
+// @name         Tamim FB Auto
 // @namespace    https://viayoo.com/xp5r70
 // @version      37.0
 // @description  Tamimanu UI, OTP sync, Auto Login with OTP as password.
